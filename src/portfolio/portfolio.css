@@ -1,0 +1,150 @@
+*, *::before, *::after{
+    width: inherit;
+    height: inherit;
+}
+
+.text-align-center {
+   text-align: center;
+}
+
+.divWidth::before, .divWidth::after {
+    width: initial;
+}
+
+.p-text {
+    margin: 0;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.625;
+    letter-spacing: 0.00938em;
+    opacity: 1;
+    text-transform: none;
+    vertical-align: unset;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: #344767;
+    letter-spacing: -0.125px;
+    text-align:end;
+    margin-block-end: 1em;
+}
+
+.ul-style {
+  padding-left: 21px;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 1rem;
+  line-height: 1.625;
+  letter-spacing: 0.00938em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  letter-spacing: -0.125px;
+  color: #344767;
+  text-align: justify;
+}
+
+.work-highlights {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.625;
+  letter-spacing: 0.00938em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  letter-spacing: -0.125px;
+  color: #344767;
+  font-weight: 430;
+  padding-left:10px;
+  text-align: justify;
+}
+
+.padding-left-26{
+  padding-left:26px;
+}
+
+.intro {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 1rem;
+  line-height: 1.625;
+  letter-spacing: 0.00938em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  letter-spacing: -0.125px;
+  color: #344767;
+  text-align: justify;
+  padding-right:30px
+}
+
+.contact {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 0.74rem;
+  line-height: 1.625;
+  letter-spacing: 0.00938em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  letter-spacing: -0.125px;
+  color: #344767;
+  text-align: center;
+  padding-right:30px;
+  display:flex;
+  padding-bottom:10px;
+}
+
+.hobbiesImageDiv{
+  text-align:center;
+  padding:20px;
+}
+
+.hobbiesImage{
+  width:280px;
+  height:186px;
+}
+
+.skillDiv {
+  margin: 0;
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 12px;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #344767;
+  letter-spacing: -0.125px;
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-align:center;
+}
+
+.skillsP {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.6;
+  letter-spacing: 0.01071em;
+  display: block;
+  padding-right: 0px;
+  padding-left: 0px;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: #7b809a;
+  letter-spacing: -0.125px;
+  text-align:center;
+  color: #344767;
+}
+

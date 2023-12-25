@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/material-kit-react/static/css/main.001bd7da.css",
-    "main.js": "/material-kit-react/static/js/main.19da074f.js",
-    "static/media/Img.jpg": "/material-kit-react/static/media/Img.c7614900be508cb47c61.jpg",
-    "index.html": "/material-kit-react/index.html",
-    "main.001bd7da.css.map": "/material-kit-react/static/css/main.001bd7da.css.map",
-    "main.19da074f.js.map": "/material-kit-react/static/js/main.19da074f.js.map"
+    "main.css": "/preethi_portfolio/static/css/main.001bd7da.css",
+    "main.js": "/preethi_portfolio/static/js/main.738d84bd.js",
+    "static/media/Img.jpg": "/preethi_portfolio/static/media/Img.c7614900be508cb47c61.jpg",
+    "index.html": "/preethi_portfolio/index.html",
+    "main.001bd7da.css.map": "/preethi_portfolio/static/css/main.001bd7da.css.map",
+    "main.738d84bd.js.map": "/preethi_portfolio/static/js/main.738d84bd.js.map"
   },
   "entrypoints": [
     "static/css/main.001bd7da.css",
-    "static/js/main.19da074f.js"
+    "static/js/main.738d84bd.js"
   ]
 }

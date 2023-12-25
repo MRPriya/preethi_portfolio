@@ -68,7 +68,7 @@
 
 .intro {
   font-family: "Roboto","Helvetica","Arial",sans-serif;
-  font-size: 1rem;
+  font-size: 1.15rem;
   line-height: 1.625;
   letter-spacing: 0.00938em;
   opacity: 1;
@@ -97,7 +97,7 @@
   text-align: center;
   padding-right:30px;
   display:flex;
-  padding-bottom:10px;
+  padding-bottom:16px;
 }
 
 .hobbiesImageDiv{
@@ -148,3 +148,19 @@
   color: #344767;
 }
 
+.name {
+    margin: 0;
+    font-family: "Roboto Slab",sans-serif;
+    font-size: 2.15rem;
+    line-height: 1.375;
+    color: #344767;
+    font-weight: 700;
+    letter-spacing: 0em;
+    opacity: 1;
+    text-transform: none;
+    vertical-align: unset;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    color: #344767;
+    letter-spacing: -0.125px;
+}

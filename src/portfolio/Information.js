@@ -1,31 +1,4 @@
 /*
-=========================================================
-* Material Kit 2 React - v2.1.0
-=========================================================
-
-* Product Page: https://www.creative-tim.com/product/material-kit-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
-
-Coded by www.creative-tim.com
-
- =========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-//        <Grid container spacing={3} alignItems="center">
-//          <Grid item xs={12} lg={6}>
-//            <MKBox mb={{ xs: 5, md: 0 }}>
-//              <DefaultInfoCard
-//                title="Welcome to my Web Development Portofolio!"
-//                description="I'm Lily Smith, a passionate web developer based in USA. Here, you'll get a glimpse of my journey in the world of web development, where creativity meets functionality."
-//              />
-//            </MKBox>
-//          </Grid>
-//          <Grid item xs={12} lg={6}>
-//            <img src="https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
-//            style={{width:'inherit', height:'inherit'}} className="portimage"/>
-//          </Grid>
-//        </Grid>
 
 */
 
@@ -33,11 +6,10 @@ Coded by www.creative-tim.com
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import 'portfolio/portfolio.css';
+import image1 from "assets/images/Img.jpg";
 
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
-
-import MKTypography from "components/MKTypography";
 
 function Information() {
   return (
@@ -47,7 +19,7 @@ function Information() {
         <Grid container spacing={3} alignItems="center">
             <Grid item xs={6} md={6}>
               <MKBox display="flex" justifyContent="space-between" alignItems="center" mb={1} style={{marginBottom:'0px'}}>
-                <MKTypography variant="h3">Preethi Marenahalli Ramadas</MKTypography>
+                <div className="name">Preethi Marenahalli Ramadas</div>
               </MKBox>
               <div className="contact">
                 <pre>+1-604-537-1509 | </pre>
@@ -64,7 +36,7 @@ function Information() {
               </div>
             </Grid>
             <Grid item xs={6} md={6} lg={6}>
-              <img src="https://images.unsplash.com/photo-1544717302-de2939b7ef71?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80" />
+              <img src={image1} style={{ borderRadius:'0.75rem' }}/>
             </Grid>
         </Grid>
       </Container>

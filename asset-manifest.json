@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/preethi_portfolio/static/css/main.b737795c.css",
-    "main.js": "/preethi_portfolio/static/js/main.738d84bd.js",
+    "main.css": "/preethi_portfolio/static/css/main.ab32cf56.css",
+    "main.js": "/preethi_portfolio/static/js/main.bc8e0bef.js",
     "static/media/Img.jpg": "/preethi_portfolio/static/media/Img.c7614900be508cb47c61.jpg",
     "index.html": "/preethi_portfolio/index.html",
-    "main.b737795c.css.map": "/preethi_portfolio/static/css/main.b737795c.css.map",
-    "main.738d84bd.js.map": "/preethi_portfolio/static/js/main.738d84bd.js.map"
+    "main.ab32cf56.css.map": "/preethi_portfolio/static/css/main.ab32cf56.css.map",
+    "main.bc8e0bef.js.map": "/preethi_portfolio/static/js/main.bc8e0bef.js.map"
   },
   "entrypoints": [
-    "static/css/main.b737795c.css",
-    "static/js/main.738d84bd.js"
+    "static/css/main.ab32cf56.css",
+    "static/js/main.bc8e0bef.js"
   ]
 }

@@ -45,7 +45,7 @@ function Hobbies() {
       <Container>
         <Grid container spacing={3} alignItems="center">
             <Grid item xs={12} md={12}>
-              <MKTypography variant="h4">Hobbies</MKTypography>
+              <MKTypography variant="h4" style={{textAlign:'center', paddingBottom:'22px'}}>Hobbies</MKTypography>
                 <div className="ul-style" style={{textAlign:'justify', paddingLeft:'0px'}}>
                   My hobbies revolve around nurturing my creative and intellectual side.
                 </div>
@@ -56,7 +56,7 @@ function Hobbies() {
                                 className="hobbiesImage"/>
                 </div>
                 <div>
-                  <ul className="ul-style">
+                  <ul className="ul-style" style={{width:'initial'}}>
                     <li>Reading novels helps me explore diverse stories and broaden
                         my horizons.</li>
                     <li>Painting with acrylic on canvas gives me an outlet for self-

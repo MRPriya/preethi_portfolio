@@ -28,7 +28,7 @@
         <Container>
           <Grid container alignItems="center">
             <Grid item sx={12} md={12}>
-              <MKTypography variant="h4">Work Experience</MKTypography>
+              <MKTypography variant="h4" style={{textAlign:'center'}}>Work Experience</MKTypography>
               <div style={{display:"flex", paddingTop:'22px'}}>
                 <Grid item sx={12} md={6}>
                   <MKTypography variant="h5">Accenture</MKTypography>

@@ -30,7 +30,7 @@
         <Container>
           <Grid container alignItems="center">
             <Grid item sx={12} md={12}>
-              <MKTypography variant="h4">Education</MKTypography>
+              <MKTypography variant="h4" style={{textAlign:'center', paddingBottom:'12px'}}>Education</MKTypography>
               <div className="ul-style" style={{textAlign:'justify', paddingLeft:'0px', paddingTop:'10px'}}>
                 I hold a BE in Instrumentation Technology and an MBA in
                 International Business, providing me with a unique blend of

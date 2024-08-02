@@ -31,37 +31,27 @@
               <MKTypography variant="h4" style={{textAlign:'center'}}>Work Experience</MKTypography>
               <div style={{display:"flex", paddingTop:'22px'}}>
                 <Grid item sx={12} md={6}>
-                  <MKTypography variant="h5">Accenture</MKTypography>
+                  <MKTypography variant="h5">Randstad</MKTypography>
                 </Grid>
                 <Grid item sx={12} md={6}>
-                  <p className="p-text">July 2021 - Aug 2022</p>
+                  <p className="p-text">Jan 2024 - Present</p>
                 </Grid>
               </div>
               <div>
                 <p className="ul-style" style={{textAlign:'justify', padding:'0px'}}>
-                  In July 2021, I joined Accenture again and got into a different project, AT&amp;T.
-                  Even though in my previous five years of experience, I was into insurance
-                  projects, through the AT&amp;T project, I received new experience of working on a
-                  telecommunication project.
+                  During my MBA studies, I joined Randstad as a part-time employee. By demonstrating my
+                  abilities, I earned a promotion to Team Leader, transitioning to a full-time role.
                 </p>
                 <br/>
                 <div className="work-highlights">Highlights:</div>
                 <br/>
                 <ul className="ul-style" style={{paddingLeft:'27px'}}>
-                  <li>I have worked with several experienced professionals and gauged that
-                      the essentials of the industry have been a significant highlight of my
-                      career trajectory.</li>
-                  <li>I have worked on code migration to the cloud, which involved
-                      understanding and analyzing the requirements, planning the flow, and
-                      learning how to migrate the code.</li>
-                  <li>In this project, the team size was 10, providing knowledge transfer to
-                      the new joiners by utilizing my experience.</li>
-                  <li>Prepared Unit and Assembly Test plans and executed the same.</li>
-                  <li>I Played a crucial role in developing multiple new JCLs and programs
-                      from scratch to generate reports that clients could further use to
-                      reduce the manual work.</li>
-                  <li>I was part of the production release and provided client support during
-                      production checkout.</li>
+                  <li>Increased customer acquisition by 200%, onboarding 50+ new customers monthly
+                      through advanced direct marketing techniques.</li>
+                  <li>Improved store efficiency by 52.3% while maintaining a 95% customer satisfaction
+                      rate through effective team leadership.</li>
+                  <li>Boosted repeat business by 25% by implementing customer-centric conflict resolution
+                      strategies.</li>
                 </ul>
                 <br/>
                 <div className="work-highlights">Appreciations:</div>
@@ -72,6 +62,53 @@
                   <li>My teammates admired me when I supported them with ideas to
                       minimize their work.</li>
                   <li>Received recognition from the team lead for my agility work.</li>
+                </ul>
+              </div>
+              <div style={{display:"flex", paddingTop:'22px'}}>
+                <Grid item sx={12} md={6}>
+                  <MKTypography variant="h5">Accenture</MKTypography>
+                </Grid>
+                <Grid item sx={12} md={6}>
+                  <p className="p-text">July 2021 - Aug 2022</p>
+                </Grid>
+              </div>
+              <div>
+                <p className="ul-style" style={{textAlign:'justify', padding:'0px'}}>
+                  In July 2021, I re-joined Accenture and took on a new project with AT&amp;T. Despite my
+                  previous five years of experience in insurance projects, the AT&amp;T project provided me with
+                  valuable experience in the telecommunications sector.
+                </p>
+                <br/>
+                <div className="work-highlights">Highlights:</div>
+                <br/>
+                <ul className="ul-style" style={{paddingLeft:'27px'}}>
+                  <li><b style={{fontWeight:420}}>Code Migration to Cloud:</b> Led the migration of code to the cloud, including
+                      requirements analysis, planning, and execution. Developed technical specifications
+                      for cloud infrastructure projects, improving project delivery efficiency by 35%.</li>
+                  <li><b style={{fontWeight:420}}>Team Leadership and Knowledge Transfer:</b> Managed a team of 10, providing
+                      knowledge transfer to new joiners and utilizing my experience to enhance team skills
+                      and project outcomes.</li>
+                  <li><b style={{fontWeight:420}}>Development and Testing:</b> Played a crucial role in creating new JCLs and programs
+                      from scratch to generate client reports, significantly reducing manual work. Prepared
+                      and executed Unit and Assembly Test plans.</li>
+                  <li><b style={{fontWeight:420}}>Production Release and Client Support:</b> Actively participated in production
+                      releases and provided client support during production checkout, ensuring smooth
+                      deployment and operation.</li>
+                  <li><b style={{fontWeight:420}}>Project Management:</b> Managed end-to-end project lifecycles for 12+ projects using
+                      Agile methodologies, increasing overall efficiency by 20% through effective
+                      expectation alignment with international cross-functional teams.</li>
+                  <li><b style={{fontWeight:420}}>System Reliability Improvement:</b> Reduced system outages by 25% and component
+                      conflicts by 20% by leveraging JIRA within the Scrum framework, ensuring high
+                      reliability of the cloud platform.</li>
+                </ul>
+                <br/>
+                <div className="work-highlights">Appreciations:</div>
+                <br/>
+                <ul className="ul-style" style={{paddingLeft:'27px'}}>
+                  <li>Received appreciation from the Associate Manager and Manager for my fast-paced
+                      work.</li>
+                  <li>My teammates admired me for supporting them with ideas to streamline their tasks.</li>
+                  <li>Additionally, I received recognition from the Team Lead for my agile work.</li>
                 </ul>
               </div>
               <br/>
@@ -85,32 +122,31 @@
               </div>
               <div>
                 <p className="ul-style" style={{textAlign:'justify', padding:'0px'}}>
-                  After being a part of Accenture for three years, I joined Mindtree in 2019 as
-                  Senior Software Engineer. Here as well, I was recognized based on the work I
-                  was delivering. I was part of American based projects, AIG and Voya.
+                  At Mindtree, I contributed to two significant projects, one with a team of 9 and another with
+                  a team of 30, playing a crucial role in managing challenging assignments and driving project
+                  success.
                 </p>
                 <br/>
                 <div className="work-highlights">Highlights:</div>
                 <br/>
                 <ul className="ul-style" style={{paddingLeft:'27px'}}>
-                  <li>At Mindtree, I was a part of two projects , one with the team size of 9
-                      and other with the team size of 30.</li>
-                  <li>In both the projects, I played a crucial part of handling all challenging
-                      assignments along with the teams.</li>
-                  <li>The voya project was built from scratch as it was new to Mindtree.
-                      Tasks included developing the code from the start and implementing
-                      the same to production and maintaining the same without any defects.</li>
-                  <li>Worked on simplification of the DB2 tables. Worked on a task where a
-                      new DB2 table was introduced, using which all data related to one
-                      stream can be fetched based on transaction level. Whereas earlier
-                      multiple tables were used to do the same work.</li>
-                  <li>Reconciliation on the table updates or reports generated were taken
-                      care.</li>
-                  <li>Scheduling changes using CA7 for the new jobs introduced as well as for
-                      the decommission of old jobs.</li>
-                  <li>Hands-on experience in IBM - Cobol, CICS, JCL, DB2, Endevor, IBM
-                      debugging tool (Xpeditor), File-aid, Abend-aid, SPUFI, data
-                      investigator, file manager, QMF.</li>
+                  <li><b style={{fontWeight:420}}>Project Development:</b> In the Voya project, which was a new venture for Mindtree, I
+                      was involved from inception. This included developing code from scratch,
+                      implementing it into production, and ensuring defect-free maintenance.</li>
+                  <li><b style={{fontWeight:420}}>Efficiency Improvements:</b> Enhanced project delivery efficiency by 35% by
+                      translating business requirements into technical specifications. Increased overall
+                      project efficiency by 20% through comprehensive lifecycle management and effective
+                      stakeholder expectation alignment.</li>
+                  <li><b style={{fontWeight:420}}>Collaboration and Work Reduction:</b> Achieved a 50% reduction in redundant work
+                      by fostering collaboration within international, cross-functional teams.</li>
+                  <li><b style={{fontWeight:420}}>Database Optimization:</b> Simplified DB2 tables by introducing a new table that
+                      consolidated data retrieval for a specific stream, replacing the previous multiple-table
+                      approach. Managed reconciliation of table updates and report generation.</li>
+                  <li><b style={{fontWeight:420}}>Job Scheduling and Maintenance:</b> Handled scheduling changes using CA7 for new
+                      job introductions and the decommissioning of old jobs.</li>
+                  <li><b style={{fontWeight:420}}>Technical Expertise:</b> Utilized a range of tools and technologies including IBM
+                      COBOL, CICS, JCL, DB2, Endevor, IBM debugging tools (Xpeditor), File-AID,
+                      Abend-AID, SPUFI, Data Investigator, File Manager, and QMF.</li>
                 </ul>
                 <br/>
                 <div className="work-highlights">Appreciations:</div>
@@ -146,25 +182,39 @@
                 <div className="work-highlights">Highlights:</div>
                 <br/>
                 <ul className="ul-style" style={{paddingLeft:'27px'}}>
-                  <li>I have created more than 40 detailed design documents to create a roadmap on the requirements.</li>
-                  <li>I have handled approximately 45+ application management enhancement projects within the QBE project.</li>
-                  <li>I have been part of projects that needed cross-functional teams to work together.</li>
-                  <li>We used JIRA as project tracking software.</li>
-                  <li>There would be monthly knowledge transfer meetings, where team developers would present the changes introduced to the application to the &apos;application management team&apos;.</li>
-                  <li>I&apos;ve given demonstrations/showcases of the projects I&apos;ve worked on to the clients to show the outcomes.</li>
-                  <li>Provided knowledge transfer to the new joiners by utilising my experience.</li>
-                  <li>I&apos;ve been part of a team with 35 Mainframe teammates.</li>
-                  <li>Along with being proactive in the team, I was responsible for dealing with the client side, which helped me establish, build, and manage corporate relationships with the clients.</li>
-                  <li>Understanding their requirements and implementing the same, which, over time, provided complete lifecycle support from requirement analysis to design, coding, unit testing, debugging, implementation, and integration.</li>
+                  <li><b style={{fontWeight:420}}>Design Documentation:</b> Created over 40 detailed design documents to establish a
+                      comprehensive</li>
+                  <li><b style={{fontWeight:420}}>Lifecycle Support:</b> Provided end-to-end support across the project lifecycle,
+                      including requirement analysis, design, coding, unit testing, debugging,
+                      implementation, and integration. Increased team efficiency by 40% through this
+                      comprehensive approach.</li>
+                  <li><b style={{fontWeight:420}}>Application Management:</b> Managed approximately 45+ application management
+                      enhancement projects within the QBE project, contributing to various stages of the
+                      project lifecycle.</li>
+                  <li><b style={{fontWeight:420}}>Project Management:</b> Managed 30+ projects, ensuring alignment with business
+                      requirements and effective risk management.</li>
+                  <li><b style={{fontWeight:420}}>Cross-Functional Collaboration:</b> Participated in projects requiring coordination
+                      among cross-functional teams, using JIRA for project tracking and management.</li>
+                  <li><b style={{fontWeight:420}}>Knowledge Transfer and Training:</b> Conducted monthly knowledge transfer
+                      meetings where team developers presented application changes to the application
+                      management team. Provided knowledge transfer to new joiners, sharing expertise and
+                      ensuring smooth onboarding.</li>
+                  <li><b style={{fontWeight:420}}>Client Interaction and Demonstrations:</b> Delivered demonstrations and showcases of
+                      projects to clients, highlighting outcomes and establishing strong corporate
+                      relationships.</li>
+                  <li><b style={{fontWeight:420}}>Team Management:</b> Worked effectively within a team of 35 Mainframe
+                      professionals, handling client-side interactions and contributing to team success.</li>
+                  <li><b style={{fontWeight:420}}>Stakeholder Communication:</b> Improved communication by delivering over 45
+                      technical presentations, ensuring clarity and alignment on project deliverables.</li>
                 </ul>
                 <br/>
                 <div className="work-highlights">Appreciations:</div>
                 <br/>
                 <ul className="ul-style" style={{paddingLeft:'27px'}}>
-                  <li>I have received an appreciation certificate from the senior manager for
-                      all my contributions to the team.</li>
-                  <li>One of my most challenging clients appreciated my presentation skills
-                      and how my showcases always run smoothly.</li>
+                  <li>One of my most challenging clients appreciated my presentation skills and how my
+                      showcases always run smoothly.</li>
+                  <li>I have received an appreciation certificate from the senior manager for all my
+                      contributions to the team.</li>
                 </ul>
               </div>
             </Grid>

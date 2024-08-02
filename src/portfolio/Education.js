@@ -50,21 +50,19 @@
               </div>
               <div>
                 <ul className="ul-style">
-                  <li>Through this master&#39;s degree, I have acquired knowledge in both kinds
-                      of courses. The first one is mandatory MBA courses. i.e., finance,
-                      accounting, economics, operation management, and more.</li>
-                  <li>The second kind is marketing management, human resources, global
-                      organization management, leadership, and ethics.</li>
-                  <li>Through the course &#39;Business Strategy,&#39; I got the experience of how to
-                      handle the business as a CEO. In this course, each of us was CEO of a
-                      shoe company that operated in different regions of the world and how
-                      we could improve the business with aspects of competition, being
-                      unique, and how to face the world as business owners.</li>
-                  <li>Every course needed multiple presentations, be they individual or in a
-                      group, and this helped polish my skills in being vocal and leading
-                      groups.</li>
-                  <li>Along with academic groups, I am part of a cultural group and have
-                      helped the team organise events like Indian Cultural Night.</li>
+                  <li>Authored 14 research papers across various subjects and delivered over 25
+                      presentations, showcasing my ability to conduct thorough research and effectively
+                      communicate complex ideas.</li>
+                  <li>Excelled in the Business Strategy Game, achieving a 40% improvement in simulated
+                      company performance through strategic planning and execution, highlighting my
+                      capability to drive business growth.</li>
+                  <li>Completed comprehensive courses in Leadership and Ethics and Human Resource
+                      Management, gaining deep insights into ethical leadership practices and HR
+                      strategies.</li>
+                  <li>Successfully completed courses in Marketing Management, Managing a Global
+                      Organisation, and Global Economic Competitiveness, acquiring a robust
+                      understanding of strategic marketing, cross-cultural management, and global market
+                      dynamics.</li>
                 </ul>
               </div>
               <br/>
@@ -78,16 +76,17 @@
               </div>
               <div>
                 <ul className="ul-style">
-                  <li>In addition to physics, chemistry, mathematics, and electronics, I took
-                      the course and gained knowledge on OOPS, C++, Networks, Java, mobile
-                      application development, and cloud computing.</li>
-                  <li>Published a paper on DCT-based ECG Steganography for Protecting
-                      Patient’s Confidential Data in Point-of-Care Systems in IJAREEIE
-                      journal, Volume 5, Issue 7, July 2016.</li>
-                  <li>Led a group of 20 and coordinated for the college fest “8th Mile”.</li>
-                  <li>Attended paper drive event twice, aimed at donating the money
-                      collected to an orphanage; the event was organized by Rotaract Club,
-                      Bengaluru.</li>
+                  <li>Published a paper on DCT-based ECG Steganography for Protecting Patient’s
+                      Confidential Data in Point-of-Care Systems in IJAREEIE journal, Volume 5, Issue 7, July 2016</li>
+                  <li>Completed in-depth courses in Computer Organisation and Architecture, Object-
+                      Oriented Programming with C++, and Java &amp; J2EE, developing a strong foundation
+                      in system design, programming principles, and enterprise application development.</li>
+                  <li>Successfully completed courses in Cloud Computing and Mobile Application
+                      Development, gaining advanced skills in designing scalable cloud solutions and
+                      creating innovative mobile applications.</li>
+                  <li>Delivered over 35 technical presentations throughout the 4-year course, effectively
+                      communicating complex engineering concepts to diverse audiences and achieving an
+                      average audience engagement rating of 4.5 out of 5.</li>
                 </ul>
               </div>
             </Grid>

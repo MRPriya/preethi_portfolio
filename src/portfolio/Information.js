@@ -1,12 +1,7 @@
-/*
-
-*/
-
-// @mui material components
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid";
 import 'portfolio/portfolio.css';
-import image1 from "assets/images/Img.jpg";
+import image1 from "assets/images/profile.jpg";
 
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
@@ -29,23 +24,26 @@ function Information() {
                 <a href="https://linkedin.com/in/preethi-m-r" style={{paddingLeft:'14px'}}>https://linkedin.com/in/preethi-m-r</a></pre>
               </div>
               <div className="intro">
-                 An extroverted Senior Software Engineer with six years of diverse experience
-                 handling key responsibilities for renowned clients like AT&T, QBE, Voya, and AIG.
-                 Proficient in the end-to-end software development lifecycle, from creating
-                 detailed design documents to coding to seamless implementation. Known for
-                 adeptly representing development teams in client interactions. Leveraging this
-                 extensive experience alongside an MBA to transition into a managerial role. <br />
+                 Accomplished software development professional with 6+ years of experience, boosting
+                 project delivery efficiency by 35% and cutting timelines by 30%. Certified Associate in
+                 Project Management (CAPM) with expertise in Agile, Waterfall, Jira, and ServiceNow.
+                 Managed high-stakes projects for clients like AT&amp;T, QBE, Voya, and AIG. Proficient in the
+                 full software development lifecycle, from design to implementation. Known for representing
+                 development teams effectively in client interactions. Leveraging technical expertise and an
+                 MBA to transition into a managerial role, combining leadership, innovation, and strategic
+                 insight. <br />
               </div>
             </Grid>
             <Grid item xs={5} md={5} lg={5}>
-              <img src={image1} style={{ borderRadius:'0.75rem' }}/>
+              <img src={image1} style={{ borderRadius:'0.75rem',height:'546px' }}/>
+              <div className="tagLine">Bridging Stakeholders &amp; Driving Project Success</div>
             </Grid>
         </Grid>
       </Container>
     </MKBox>
     <Container>
       <div className="skillDiv">My Skills</div>
-      <div className="skillsP">Team Leadership • Time Management • Technical Writing • Communication • Building Trust</div>
+      <div className="skillsP">Project Management • Stakeholder Management • Communication • Leadership • Time Management</div>
     </Container>
   </>
   );

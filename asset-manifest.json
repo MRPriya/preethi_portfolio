@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/preethi_portfolio/static/css/main.fc881c4e.css",
-    "main.js": "/preethi_portfolio/static/js/main.9812918e.js",
-    "static/media/profile.jpg": "/preethi_portfolio/static/media/profile.9c820f5055899c54e782.jpg",
+    "main.css": "/preethi_portfolio/static/css/main.2fade7c8.css",
+    "main.js": "/preethi_portfolio/static/js/main.49c036e4.js",
     "static/media/painting.jpg": "/preethi_portfolio/static/media/painting.e6d290599a499f621b0a.jpg",
+    "static/media/profile.jpg": "/preethi_portfolio/static/media/profile.27e5dcda0eb175008a23.jpg",
     "static/media/music.jpg": "/preethi_portfolio/static/media/music.bb1b5d03121829e420ec.jpg",
     "index.html": "/preethi_portfolio/index.html",
-    "main.fc881c4e.css.map": "/preethi_portfolio/static/css/main.fc881c4e.css.map",
-    "main.9812918e.js.map": "/preethi_portfolio/static/js/main.9812918e.js.map"
+    "main.2fade7c8.css.map": "/preethi_portfolio/static/css/main.2fade7c8.css.map",
+    "main.49c036e4.js.map": "/preethi_portfolio/static/js/main.49c036e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc881c4e.css",
-    "static/js/main.9812918e.js"
+    "static/css/main.2fade7c8.css",
+    "static/js/main.49c036e4.js"
   ]
 }

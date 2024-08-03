@@ -82,6 +82,22 @@
   padding-right:30px
 }
 
+.introSummery {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-size: 1rem;
+  line-height: 1.625;
+  letter-spacing: 0.00938em;
+  opacity: 1;
+  text-transform: none;
+  vertical-align: unset;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  letter-spacing: -0.125px;
+  color: #344767;
+  text-align: justify;
+  padding-right:30px;
+}
+
 .contact {
   font-family: "Roboto","Helvetica","Arial",sans-serif;
   font-size: 0.80rem;

@@ -17,13 +17,13 @@ function Information() {
                 <div className="name">Preethi Marenahalli Ramadas</div>
               </MKBox>
               <div className="contact">
-                <pre><i className="fas fa-phone" style={{width:'8px'}}/> +1-604-537-1509 | </pre>
-                <pre><i className="fas fa-envelope" style={{width:'10px'}}/>
+                <pre><i className="fa fa-phone fa-lg" style={{width:'6px'}}/> +1-604-537-1509 | </pre>
+                <pre><i className="fa fa-envelope" style={{width:'8px'}}/>
                 <a href="preethimr3@gmail.com" style={{paddingLeft:'8px'}}>preethimr3@gmail.com</a> | </pre>
-                <pre><i className="fab fa-linkedin-in" style={{width:'3px'}}/>
+                <pre><i className="fa fa-linkedin-square fa-lg" style={{width:'3px'}}/>
                 <a href="https://linkedin.com/in/preethi-m-r" style={{paddingLeft:'14px'}}>https://linkedin.com/in/preethi-m-r</a></pre>
               </div>
-              <div className="intro">
+              <div className="introSummery">
                  Accomplished software development professional with 6+ years of experience, boosting
                  project delivery efficiency by 35% and cutting timelines by 30%. Certified Associate in
                  Project Management (CAPM) with expertise in Agile, Waterfall, Jira, and ServiceNow.
@@ -35,7 +35,7 @@ function Information() {
               </div>
             </Grid>
             <Grid item xs={5} md={5} lg={5}>
-              <img src={image1} style={{ borderRadius:'0.75rem',height:'546px' }}/>
+              <img src={image1} style={{ borderRadius:'0.75rem' }}/>
               <div className="tagLine">Bridging Stakeholders &amp; Driving Project Success</div>
             </Grid>
         </Grid>

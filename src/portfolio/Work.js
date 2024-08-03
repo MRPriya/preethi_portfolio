@@ -1,19 +1,3 @@
-  /*
-  =========================================================
-  * Material Kit 2 React - v2.1.0
-  =========================================================
-
-  * Product Page: https://www.creative-tim.com/product/material-kit-react
-  * Copyright 2023 Creative Tim (https://www.creative-tim.com)
-
-  Coded by www.creative-tim.com
-
-   =========================================================
-
-  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  */
-
-  // @mui material components
   import Container from "@mui/material/Container";
   import Grid from "@mui/material/Grid";
   import 'portfolio/portfolio.css';
@@ -57,11 +41,8 @@
                 <div className="work-highlights">Appreciations:</div>
                 <br/>
                 <ul className="ul-style" style={{paddingLeft:'27px'}}>
-                  <li>I received appreciation from the associate manager and manager of the
-                      team for my fast-paced work.</li>
-                  <li>My teammates admired me when I supported them with ideas to
-                      minimize their work.</li>
-                  <li>Received recognition from the team lead for my agility work.</li>
+                  <li>Identified and resolved root cause issues within the team by addressing communication gaps, leading to a promotion to Team Leader.</li>
+                  <li>Consistently received commendations from managers for exceptional agility and swift performance in team management.</li>
                 </ul>
               </div>
               <div style={{display:"flex", paddingTop:'22px'}}>
